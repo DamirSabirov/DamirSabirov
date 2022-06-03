@@ -1,25 +1,25 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500"/>
+<div align="center">
+  <img src="https://media.giphy.com/media/KiXiO1iR3fFhC/giphy-downsized.gif" width="500"/>
 </div>
 <div id="badges"  align="center">
     <a href="https://t.me/water_god">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
+    <a href=https://hh.ru/resume/bb8e3cf1ff09ae719d0039ed1f666f79765257>
+    <img src="https://img.shields.io/badge/headhunter-red?style=for-the-badge&logo=headhunter&logoColor=white" alt="headhunter Badge"/>
+  </a>
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href=https://hh.ru/resume/bb8e3cf1ff09ae719d0039ed1f666f79765257>
-    <img src="https://img.shields.io/badge/headhunter-red?style=for-the-badge&logo=headhunter&logoColor=white" alt="headhunter Badge"/>
-  </a>
   <br/><img src="https://komarev.com/ghpvc/?username=DamirSabirov&style=flat-square&color=blue" alt=""/>
 <h1>
-  hey there
+  Hey there!
 </h1>
 </div >
-
-<div align="center">
-  <img src="https://media.giphy.com/media/yPRo73ILrGjny/giphy-downsized-large.gif" width="100"/>
+<div id="header" align="center">
+  <img src="https://stickode.com/frontend/resource/gif/guide_codeupload.gif" width="500"/>
 </div>
+
 :man_technologist: About Me: I am a C# Developer <br/>
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
