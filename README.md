@@ -23,9 +23,9 @@
 
 - :computer: I am a C# Back-End Developer
 
-- :telescope: I’m working with ASP.NET Core technology for building web applications.
+- :telescope: I’m working with ASP.NET Core technology for building web applications
 
-- :zap: In my free time, I read tech articles and working on my own projects.
+- :zap: In my free time, I read tech articles and working on my own projects
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
