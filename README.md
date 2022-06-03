@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Contacts:</h1>
+  <h1>Contacts</h1>
   
   <img src="https://media.giphy.com/media/KiXiO1iR3fFhC/giphy-downsized.gif" width="400"/>
 </div>
@@ -13,16 +13,13 @@
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <br/><img src="https://komarev.com/ghpvc/?username=DamirSabirov&style=flat-square&color=blue" alt=""/>
 <h1>
-  Hello, World!
+  About me
 </h1>
 </div >
 <div id="header" align="center">
   <img src="https://thumbs.gfycat.com/ImpossibleUniqueAfricanfisheagle-max-1mb.gif" width="400"/>
 </div>
-
-:man_technologist: About Me: 
 
 - :computer: I am a C# Back-End Developer
 
