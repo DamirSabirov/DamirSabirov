@@ -1,4 +1,6 @@
 <div align="center">
+  <h1>Contacts:</h1>
+  
   <img src="https://media.giphy.com/media/KiXiO1iR3fFhC/giphy-downsized.gif" width="400"/>
 </div>
 <div id="badges"  align="center">
