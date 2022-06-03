@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/KiXiO1iR3fFhC/giphy-downsized.gif" width="500"/>
+  <img src="https://media.giphy.com/media/KiXiO1iR3fFhC/giphy-downsized.gif" width="400"/>
 </div>
 <div id="badges"  align="center">
     <a href="https://t.me/water_god">
