@@ -21,11 +21,11 @@
   <img src="https://thumbs.gfycat.com/ImpossibleUniqueAfricanfisheagle-max-1mb.gif" width="400"/>
 </div>
 
-- :computer: I am a C# Back-End Developer
+- :computer: C# Back-End разработчик
 
-- :telescope: I’m working with ASP.NET Core technology for building web applications
+- :telescope: Работаю с технологией ASP.Net для разработки веб-приложений
 
-- :zap: In my free time, I read tech articles and working on my own projects
+- :zap: В свободное время занимаюсь разработкой собственных проектов и изучением новых возможностей для разработки  
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
