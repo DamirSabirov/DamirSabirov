@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Contacts</h1>
+  <h1>Контакты</h1>
   
   <img src="https://media.giphy.com/media/KiXiO1iR3fFhC/giphy-downsized.gif" width="400"/>
 </div>
@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 <h1>
-  About me
+  Обо мне
 </h1>
 </div >
 <div id="header" align="center">
@@ -28,7 +28,7 @@
 - :zap: В свободное время занимаюсь разработкой собственных проектов и изучением новых возможностей для разработки  
 
 ---
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Языки и технологии:
 <div id="tools"  align="center">
   <img src="https://cdn.cdnlogo.com/logos/c/27/c.svg" title="C#" alt="C#" height="40"/>&nbsp;
   <img src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.svg" title="MS SQL" alt="MS SQL" height="40"/>&nbsp;
@@ -39,7 +39,7 @@
 </div>
 
 ---
-### :fire: My Stats :
+### :fire: GitHub статистика:
 
 <div id="stats"  align="center">
   
