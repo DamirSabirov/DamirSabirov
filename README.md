@@ -7,10 +7,10 @@
     <a href="https://t.me/water_god">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-    <a href=https://hh.ru/resume/bb8e3cf1ff09ae719d0039ed1f666f79765257>
+    <a href="https://hh.ru/resume/bb8e3cf1ff09ae719d0039ed1f666f79765257">
     <img src="https://img.shields.io/badge/headhunter-red?style=for-the-badge&logo=headhunter&logoColor=white" alt="headhunter Badge"/>
   </a>
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/damirsabirov/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 <h1>
