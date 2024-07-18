@@ -7,7 +7,7 @@
     <a href="https://t.me/water_god">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-    <a href="https://hh.ru/resume/bb8e3cf1ff09ae719d0039ed1f666f79765257">
+    <a href="https://hh.ru/resume/35c6f635ff0d76e3cb0039ed1f663171454779">
     <img src="https://img.shields.io/badge/headhunter-red?style=for-the-badge&logo=headhunter&logoColor=white" alt="headhunter Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/damirsabirov/">
